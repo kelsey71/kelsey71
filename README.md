@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelsey71
-- 👀 I’m interested in Python, Java, SQL, Algorithm, Machine Learning, Database Management
-- 🌱 I’m currently learning Data Analysis, ETL based on Python
+- 👀 I’m interested in Python, Java, SQL, Data Engineering, Algorithm, Machine Learning, Database Management
+- 🌱 I’m currently learning Data Engineer Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
